@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="enter_name">Название предмета</string>
+    <string name="enter_room">0</string>
+    <string name="add">+</string>
+    <string name="show_all_timetable">Расписание на неделю</string>
+    <string name="log_in">Войти</string>
+    <string name="week">^</string>
+
+</resources>
